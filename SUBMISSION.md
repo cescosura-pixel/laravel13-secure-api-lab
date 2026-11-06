@@ -1,8 +1,11 @@
 Laboratory Activity: Module 5 – Lesson 1
 
 Building and Testing a Secure API with Laravel 13
+
 Name: Escosura, Cheessy Gabriel C.
+
 Section: BSICT - 3B
+
 GitHub Repository: https://github.com/cescosura-pixel/laravel13-secure-api-lab
 
 Screenshot Checklist
